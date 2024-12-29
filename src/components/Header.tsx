@@ -96,7 +96,7 @@ const Header = () => {
                 Instagram Reel download
               </h1>
               <p className="text-xs font-medium text-gray-100">
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Natus,
+                Download instagram reels online with instafech
               </p>
             </div>
             <div className="w-full flex flex-col gap-2">
