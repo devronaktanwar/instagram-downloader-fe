@@ -42,7 +42,7 @@ const Header = () => {
     setError("");
     setLoading(true);
     try {
-      const response = await axios.post("http://localhost:5000/api/download", {
+      const response = await axios.post("https://instafetch.onrender.com/api/download", {
         url,
       });
       setReelData(response.data.media[0]);
